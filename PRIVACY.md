@@ -12,5 +12,5 @@ For further information check: https://www.apple.com/legal/privacy/
 For more information or questions:
 
 | ✉️ Mail |
-|-|-|
+|-|
 | gigawhim@gmail.com | 
